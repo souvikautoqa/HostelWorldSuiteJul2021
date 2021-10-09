@@ -4,6 +4,7 @@
   <test name="smoke" >
     <classes>
        <class name="tests.HostelBookingTests" />
+       <class name="tests.HostelSearchTests" />
     </classes>
   </test>
 </suite>

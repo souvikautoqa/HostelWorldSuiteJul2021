@@ -26,6 +26,15 @@ public class HostelSearchTests extends TestBase{
 			e.printStackTrace();
 		}
 	}
+	
+	@Test
+	public void tc002() {
+		try {
+			home.launchApp();
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
 
 }
 
